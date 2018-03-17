@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kinwae</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main1">Personal Information</string>
+    <string name="title_activity_main2">Contact Information</string>
+    <string name="title_activity_main3">Upload</string>
+</resources>
